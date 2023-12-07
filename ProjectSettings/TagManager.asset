@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - LeftPlayer
+  - RightPlayer
+  - Bullet
+  - BulletTrail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player1
+  - Player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3717274121
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 826301633
+    locked: 0
+  - name: Target
+    uniqueID: 191795185
+    locked: 0
+  - name: PlayerDissolve
+    uniqueID: 3164288279
+    locked: 0
+  - name: Player
+    uniqueID: 1090191043
+    locked: 0
+  - name: Bullet
+    uniqueID: 755999561
+    locked: 0
